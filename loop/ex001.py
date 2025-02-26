@@ -1,5 +1,4 @@
 
 loop = int(input("escreva um numero:"))
-conta = loop - 1
-for i in range(conta):
+for i in range(loop):
     print(loop)

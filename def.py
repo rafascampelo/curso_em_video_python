@@ -8,4 +8,5 @@ def mensagem2():
 
 texto = mensagem2()
 print(texto)
+
 mensagem1()
